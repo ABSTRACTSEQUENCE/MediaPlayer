@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidApp</string>
+    <string name="trackName_unknown">Неизвестен</string>
+</resources>
